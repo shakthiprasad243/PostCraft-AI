@@ -1,4 +1,4 @@
-const OPENROUTER_API_KEY = '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';
+const OPENROUTER_API_KEY = 'Your-Api-key';
 const OPENROUTER_URL = 'https://openrouter.ai/api/v1/chat/completions';
 
 // Available AI models for users to choose from
